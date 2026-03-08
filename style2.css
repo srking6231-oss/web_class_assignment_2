@@ -1,0 +1,81 @@
+.box1{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(122, 210, 240);
+    border: 1px solid black;
+    position: relative;
+}
+
+.text1{
+    position: absolute;
+    top: 130px;
+    left: 20px;
+    font-size: 40px;
+}
+
+.text2{
+    position: absolute;
+    top: 220px;
+    left: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.box2{
+    width: 180px;
+    height: 180px;
+    background-color: rgb(122, 210, 240);
+    border: 1px solid black;
+    position: relative;
+    top: 60px;
+    left: 180px;
+}
+
+.text3{
+    position: absolute;
+    top: 40px;
+    left: 25px;
+    background-color: rgb(149, 188, 206);
+    padding: 7px;
+    font-size: 15px;
+}
+
+.circle1{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(119, 132, 136);
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 280px;
+}
+
+.circle2{
+    width: 35px;
+    height: 35px;
+    background-color: rgb(148, 163, 139);
+    border-radius: 50%;
+    position: absolute;
+    top: 113px;
+    right: 50px;
+}
+
+.circle3{
+    width: 75px;
+    height: 75px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 185px;
+    right: 20px;
+}
+
+.bird{
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 185px;
+    right: 20px;
+}
+
+
